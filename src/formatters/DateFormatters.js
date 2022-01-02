@@ -1,0 +1,1 @@
+export const getYearString = (date) => date.getFullYear().toString();

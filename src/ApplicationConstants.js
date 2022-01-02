@@ -1,0 +1,1 @@
+export const NO_EXPENSES_FOUND_MESSAGE = "No Expenses Found";
